@@ -20,4 +20,3 @@ if (string === lowercase){
   else if (string === uppercase){
   return "YES INDEED"
 }
-  
