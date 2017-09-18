@@ -20,4 +20,6 @@ function sayHiToGrandma(string) {
   mixedCase.toLowerCase() === mixedCase
   mixedCase.toUpperCase() === mixedCase
 }
-if (string === lowercase)
+if (string === lowercase) {
+  result = "I can't hear you!"
+}
